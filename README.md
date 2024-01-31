@@ -1,0 +1,1 @@
+This is a Library Management System which is build using Java Swing and MySQL.This file contains all the files and can be run using the jar file present in the dist folder.The dist folder also contains library.sql file which needst o be imported in MySQL for the working of this library management system.
